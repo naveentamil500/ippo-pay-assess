@@ -9,5 +9,5 @@ Problem #1 is included in the React application itself.
 
 Problem #2 is in "problem" folder:
 
-navigate to problem folder => cd ./src/problem
-Run the file using "node arrayPartition.js"
+navigate to problem folder => cd ./src/problem and run the file using below command
+### `node arrayPartition.js`
